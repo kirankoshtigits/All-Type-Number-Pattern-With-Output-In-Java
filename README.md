@@ -1,0 +1,1 @@
+# All-Type-Number-Pattern-With-Output-In-Java
